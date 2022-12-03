@@ -1,1 +1,2 @@
+trojan://68cca1c0-6fe9-11ed-82e7-1239d0255272@172.67.199.34:443?path=%2Fhowdy&security=tls&host=sg-atha.bonds.id&type=ws&sni=sg-atha.bonds.id#sg-atha.bonds.id
 vmess://eyJhZGQiOiIxNzIuNjcuMTk5LjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoidjJyYXkxLnVkcGd3LmNvbSIsImlkIjoiYjhlZmNhMGYtNjMxMC00N2IyLTlmZGEtZGRhMWZiYTIxMDMzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dvcnJ5ZnJlZSIsInBvcnQiOiI0NDMiLCJwcyI6InYycmF5MS51ZHBndy5jb20iLCJzY3kiOiJub25lIiwic25pIjoidjJyYXkxLnVkcGd3LmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
